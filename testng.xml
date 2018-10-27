@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="com.Accenture">
+  <test thread-count="5" name="BDC7 Testing">
+    <classes>
+      <class name="com.accenture.Bdc7"/>
+    </classes>
+  </test> <!-- BDC7 Testing -->
+</suite> <!-- com.Accenture -->

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.Accenture" duration-ms="89227" started-at="2018-10-23T16:19:17Z" finished-at="2018-10-23T16:20:46Z">
+    <groups>
+    </groups>
+    <test name="BDC7 Testing" duration-ms="89227" started-at="2018-10-23T16:19:17Z" finished-at="2018-10-23T16:20:46Z">
+      <class name="com.accenture.Bdc7">
+        <test-method status="PASS" signature="method1()[pri:0, instance:com.accenture.Bdc7@1b604f19]" name="method1" duration-ms="23117" started-at="2018-10-23T16:19:17Z" finished-at="2018-10-23T16:19:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="method2()[pri:0, instance:com.accenture.Bdc7@1b604f19]" name="method2" duration-ms="15467" started-at="2018-10-23T16:19:40Z" finished-at="2018-10-23T16:19:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+        <test-method status="PASS" signature="method3()[pri:0, instance:com.accenture.Bdc7@1b604f19]" name="method3" duration-ms="24085" started-at="2018-10-23T16:19:55Z" finished-at="2018-10-23T16:20:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method3 -->
+        <test-method status="PASS" signature="method4()[pri:0, instance:com.accenture.Bdc7@1b604f19]" name="method4" duration-ms="26513" started-at="2018-10-23T16:20:19Z" finished-at="2018-10-23T16:20:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method4 -->
+      </class> <!-- com.accenture.Bdc7 -->
+    </test> <!-- BDC7 Testing -->
+  </suite> <!-- com.Accenture -->
+</testng-results>
